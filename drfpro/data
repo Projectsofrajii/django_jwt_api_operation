@@ -1,0 +1,16 @@
+{
+"user_name":"rajii_user",
+"password":"123",
+"email_id":"rajii@gmail.com",
+"mobile" : 8468368543,
+"role" : "User",
+"type" : "User"
+}
+{
+"user_name":"raji",
+"password":"123",
+"email_id":"raji@gmail.com",
+"mobile" : 8468368543,
+"role" : "User",
+"type" : "User"
+}
